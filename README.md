@@ -1,4 +1,4 @@
-## EXNO-3-DS
+## EXNO-3 DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -31,8 +31,30 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+```
+Developed by: NIKSHITHA G
+Register No:212223110031
+```
+![alt text](<Screenshot 2025-04-16 195428.png>)
+![alt text](<Screenshot 2025-04-16 195437.png>)
+
+![alt text](<Screenshot 2025-04-16 195446.png>)
+![alt text](<Screenshot 2025-04-16 195454.png>)
+![alt text](<Screenshot 2025-04-16 195501.png>)
+![alt text](<Screenshot 2025-04-16 195510.png>)
+![alt text](<Screenshot 2025-04-16 195519.png>)
+![alt text](<Screenshot 2025-04-16 195528.png>)
+![alt text](<Screenshot 2025-04-16 195537.png>)
+![alt text](<Screenshot 2025-04-16 195558.png>)
+![alt text](<Screenshot 2025-04-16 195605.png>)
+![alt text](<Screenshot 2025-04-16 195612.png>)
+![alt text](<Screenshot 2025-04-16 195630.png>)
+![alt text](<Screenshot 2025-04-16 195640.png>)
+![alt text](<Screenshot 2025-04-16 195649.png>)
+![alt text](<Screenshot 2025-04-16 195700.png>)
+![alt text](<Screenshot 2025-04-16 195708.png>)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the data was read and Feature Encoding and Transformation process was performed successfully.
 
        
